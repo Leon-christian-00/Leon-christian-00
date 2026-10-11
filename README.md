@@ -1,60 +1,25 @@
-# 👋 Hello, I'm Waston
+# 💫 About Me:
+# 👋 Hello, I'm Waston<br><br>### 🚀 Full Stack Engineer | Architecting Scalable Solutions for Africa's Digital Future<br><br>I am a Software Engineer based in Rwanda, dedicated to building robust, high-availability applications that solve real-world problems. My work is driven by a singular mission: **to position Africa as a global creator of technology, not just a consumer.** <br><br>I specialize in designing end-to-end systems, from intuitive front-end interfaces to highly optimized, scalable back-end architectures.<br>
 
-### 🚀 Full Stack Engineer | Architecting Scalable Solutions for Africa's Digital Future
 
-I am a Software Engineer based in Rwanda, dedicated to building robust, high-availability applications that solve real-world problems. My work is driven by a singular mission: **to position Africa as a global creator of technology, not just a consumer.** 
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/waston-christian.bsky.social) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/wastonics) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/christian_waston) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/abumukiza-leon-christian-3b72a4331) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Leon-christian-00) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abumuchristian@gmail.com) 
 
-I specialize in designing end-to-end systems, from intuitive front-end interfaces to highly optimized, scalable back-end architectures.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=leon-christian-00&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=leon-christian-00&theme=yeblu&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=leon-christian-00&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-### 💼 What I Build
-I focus on production-ready, full-stack applications that prioritize performance, security, and scalability. 
-- **Scalable Backend Systems:** Designing resilient APIs and microservices capable of handling high-concurrency, real-world data loads.
-- **Dynamic Front-End Experiences:** Crafting responsive, accessible, and performant user interfaces.
-- **Algorithmic Optimization:** Applying advanced Data Structures and Algorithms (DSA) to write efficient, resource-conscious code.
-
----
-
-### 🛠️ Technical Arsenal
-
-**Backend & Core Logic:** `Java` (Primary) | `Python` | `Node.js` | `C`
-**Frontend Development:** `React` | `Next.js` | `TypeScript` | `Tailwind CSS` *(Adjust to your actual frontend stack)*
-**Databases & Big Data:** `PostgreSQL` | `MongoDB` | `Redis` | `Apache Spark` *(Adjust as needed)*
-**DevOps & Tools:** `Git/GitHub` | `Docker` | `Linux` | `CI/CD Pipelines` | `AWS`
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=leon-christian-00&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=leon-christian-00&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🏆 Featured Projects
-*(Note: Keep this section updated with your 2-3 best, currently running projects. Link to live demos, not just code.)*
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/wastonchristian) 
 
-- **[Project Name 1]**: *[Brief, 1-sentence impact statement, e.g., "A real-time data processing platform reducing local business operational latency by 40%."]* 
-  - **Stack:** Java, Spring Boot, React, PostgreSQL
-  - **Links:** [Live Demo](#) | [Source Code](#)
-
-- **[Project Name 2]**: *[Brief impact statement, e.g., "A scalable full-stack web application empowering local communities with resource tracking."]*
-  - **Stack:** Python, Django, Next.js, MongoDB
-  - **Links:** [Live Demo](#) | [Source Code](#)
-
----
-
-### 💡 Engineering Philosophy
-- **Impact Over Syntax:** Code is a means to an end. Every architecture decision is evaluated against tangible user value and business impact.
-- **Relentless Optimization:** I thrive under pressure and view complex system bottlenecks as opportunities to engineer more elegant, efficient solutions.
-- **Structured Execution:** I believe in deliberate, methodical development—writing clean, testable, and well-documented code that scales with the team.
-
----
-
-### 🌍 The Vision
-Silicon Valley does not hold a monopoly on world-class engineering. I am building tools designed to scale across the African continent, empowering local talent, and proving that the next generation of global tech infrastructure will be built right here.
-
----
-
-### 📫 Let's Build Together
-I am always open to discussing scalable system design, full-stack architecture, or opportunities to build impactful technology.
-
-- **LinkedIn:** [Your Professional LinkedIn URL]
-- **Portfolio:** [Your Personal Website/Portfolio URL]
-- **Email:** [Your Professional Email]
-
-*"We are not just writing code; we are engineering the future."*
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
